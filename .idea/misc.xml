@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/notescatalogue-Sid-s-Branch/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1575" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/notescatalogue-Sid-s-Branch/app/src/main/res/layout/activity_auth.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/notescatalogue-Sid-s-Branch/app/src/main/res/layout/activity_home.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/notescatalogue-Sid-s-Branch/app/src/main/res/layout/activity_sign_up.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/notescatalogue-Sid-s-Branch/app/src/main/res/layout/fragment_login.xml" value="0.2484375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/notescatalogue-Sid-s-Branch/app/src/main/res/layout/fragment_splash.xml" value="0.2484375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/notescatalogue-Sid-s-Branch/app/src/main/res/menu/main_menu.xml" value="0.24739583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
