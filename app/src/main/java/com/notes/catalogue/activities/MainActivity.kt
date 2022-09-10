@@ -59,4 +59,10 @@ class MainActivity : AppCompatActivity() {
                 || super.onSupportNavigateUp()
     }
 
+//    This is for login Fragment
+    public fun toastMessage(name: String) {
+        Toast.makeText(this, "Hi $name!\nYour account was successfully created.", Toast.LENGTH_LONG)
+            .show()
+    }
+
 }

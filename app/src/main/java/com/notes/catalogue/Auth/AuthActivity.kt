@@ -22,7 +22,7 @@ import com.notes.catalogue.utils.Constants.RC_SIGN_IN
 import com.notes.catalogue.utils.Constants.USER
 import com.notes.catalogue.utils.HelperClass.logErrorMessage
 
-class AuthActivity : AppCompatActivity() {
+class  AuthActivity : AppCompatActivity() {
     private var authViewModel: AuthViewModel? = null
     private var googleSignInClient: GoogleSignInClient? = null
     override fun onCreate(savedInstanceState: Bundle?) {

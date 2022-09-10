@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Google/app/src/main/res/layout/activity_home.xml" value="0.2484375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Google/app/src/main/res/layout/content_main.xml" value="0.2484375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Google/app/src/main/res/layout/fragment_home.xml" value="0.2484375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Google/app/src/main/res/layout/fragment_login.xml" value="0.2484375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Google/app/src/main/res/layout/fragment_splash.xml" value="0.2484375" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/notescatalogue-Sid-s-Branch/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1575" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/notescatalogue-Sid-s-Branch/app/src/main/res/layout/activity_auth.xml" value="0.24739583333333334" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/notescatalogue-Sid-s-Branch/app/src/main/res/layout/activity_home.xml" value="0.24739583333333334" />
